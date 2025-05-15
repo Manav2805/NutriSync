@@ -7,7 +7,7 @@ Welcome to **NutriSync**, a full-stack nutrition tracking platform designed to h
 ## 🔧 Tech Stack
 
 - **Frontend**: React + TypeScript + Tailwind CSS
-- **Backend**: Flask (Python)
+- **Backend**: Flask (Python) + scikit-learn (recommendation system)
 - **Database**: PostgreSQL (via Supabase)
 
 ---
